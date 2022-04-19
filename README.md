@@ -2,10 +2,13 @@
 
 An example student website, hosted by [GitHub Pages](https://pages.github.com/).
 
-View live in production at https://prof-rossetti.github.io/student-site.
+View live in production at https://github.com/jacquemanno/website_project
 
 ![a demonstration of website functionality showing navigation between a few linked pages](https://raw.githubusercontent.com/SCSU-CSC-Department/201701-csc-443-01/e3ff575a3afab0f7b4a621a5246d05e51495759d/projects/personal-website/demo.gif)
 
+# Code Adapted from
+
+In order to complete this project, I used these three links to help build my website: https://github.com/prof-rossetti/internet-technologies/blob/main/exercises/website-hosting/exercise.md, https://github.com/prof-rossetti/internet-technologies/blob/main/exercises/website-structure/exercise.md, and https://github.com/prof-rossetti/internet-technologies/blob/main/exercises/website-style/exercise.md. Additionally, I found pieces of code from https://www.w3schools.com/css/default.asp, specifically for changing the font and adding text style, as well as implementing images and links to the website. 
 ## Installation
 
 Fork this repo to make a copy under your own control, then clone your forked copy (for example, downloading it onto your Desktop). Locate the directory you downloaded, and open it with your file finder.
