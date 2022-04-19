@@ -8,7 +8,7 @@ View live in production at https://github.com/jacquemanno/website_project
 
 # Code Adapted from
 
-In order to complete this project, I used these three links to help build my website: https://github.com/prof-rossetti/internet-technologies/blob/main/exercises/website-hosting/exercise.md, https://github.com/prof-rossetti/internet-technologies/blob/main/exercises/website-structure/exercise.md, and https://github.com/prof-rossetti/internet-technologies/blob/main/exercises/website-style/exercise.md. Additionally, I found pieces of code from https://www.w3schools.com/css/default.asp, specifically for changing the font and adding text style, as well as implementing images and links to the website. 
+In order to complete this project, I used these three links to help build my website: https://github.com/prof-rossetti/internet-technologies/blob/main/exercises/website-hosting/exercise.md, https://github.com/prof-rossetti/internet-technologies/blob/main/exercises/website-structure/exercise.md, and https://github.com/prof-rossetti/internet-technologies/blob/main/exercises/website-style/exercise.md. Additionally, I found pieces of code from https://www.w3schools.com/css/default.asp, specifically for changing the font and adding text style, as well as implementing images and links to the website. I also used https://www.w3schools.com/css/default.asp to implement the code to make my website recepitve to different browsers.  
 ## Installation
 
 Fork this repo to make a copy under your own control, then clone your forked copy (for example, downloading it onto your Desktop). Locate the directory you downloaded, and open it with your file finder.
